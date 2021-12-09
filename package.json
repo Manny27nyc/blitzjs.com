@@ -22,7 +22,7 @@
     "@reach/rect": "0.16.0",
     "@sindresorhus/slugify": "2.1.0",
     "@visx/hierarchy": "2.1.2",
-    "@visx/responsive": "2.1.2",
+    "@visx/responsive": "2.4.1",
     "blitz": "0.41.1",
     "clsx": "1.1.1",
     "dlv": "1.1.3",
