@@ -37,7 +37,7 @@
     "react-dom": "18.0.0-alpha-a0d2d1e1e",
     "react-icons": "4.3.1",
     "react-player": "2.9.0",
-    "react-select": "5.1.0",
+    "react-select": "5.2.1",
     "seedrandom": "3.0.5",
     "stringify-object": "3.3.0",
     "typeface-libre-franklin": "1.1.13",
