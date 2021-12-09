@@ -3329,10 +3329,10 @@
     d3-hierarchy "^1.1.4"
     prop-types "^15.6.1"
 
-"@visx/responsive@2.1.2":
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/@visx/responsive/-/responsive-2.1.2.tgz#8b783a54097eea82b0c9b0a49d2723c979e6bf17"
-  integrity sha512-trN6In0fPO9rJV9SUlidM5IrW7IeUfP/fGocLFPM1HRHkG9XhnN1V7Q1CM+t9DAoRBpiByBGDpURo3AFkTa7QQ==
+"@visx/responsive@2.4.1":
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/@visx/responsive/-/responsive-2.4.1.tgz#7f471c7d5d754adf101a23dc7a72f24ee2210672"
+  integrity sha512-x5zPUmmsdVX/QaeDj9rLg3mGtNuiomBWUvwBo5oQs2KOtAFiviHx0NpLfY09h+p5gvkmGfTM+8gHEtVtIwLXPg==
   dependencies:
     "@types/lodash" "^4.14.172"
     "@types/react" "*"
@@ -7797,10 +7797,6 @@ is-descriptor@^0.1.0:
   version "0.1.6"
   resolved "https://registry.yarnpkg.com/is-descriptor/-/is-descriptor-0.1.6.tgz#366d8240dde487ca51823b1ab9f07a10a78251ca"
   integrity sha512-avDYr0SB3DwO9zsMov0gKCESFYqCnE4hq/4z3TdUlukEy5t9C0YRq7HLrsN52NAcqXKaepeCD0n+B0arnVG3Hg==
-  dependencies:
-    is-accessor-descriptor "^0.1.6"
-    is-data-descriptor "^0.1.4"
-    kind-of "^5.0.0"
 
 is-descriptor@^1.0.0, is-descriptor@^1.0.2:
   version "1.0.2"
@@ -8803,8 +8799,6 @@ kind-of@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-4.0.0.tgz#20813df3d712928b207378691a45066fae72dd57"
   integrity sha1-IIE989cSkosgc3hpGkUGb65y3Vc=
-  dependencies:
-    is-buffer "^1.1.5"
 
 kind-of@^5.0.0:
   version "5.1.0"
