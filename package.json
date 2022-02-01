@@ -44,7 +44,7 @@
     "typeface-roboto": "1.1.13",
     "typeface-roboto-mono": "1.1.13",
     "typescript": "4.4.4",
-    "unist-util-visit": "2.0.3"
+    "unist-util-visit": "4.1.0"
   },
   "devDependencies": {
     "@mdx-js/loader": "1.6.22",
